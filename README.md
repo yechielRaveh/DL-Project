@@ -23,9 +23,9 @@ Install ReactJS User Interface:
 2. Run npm install
 3. Run npm start
 
-Install Backend :
-1. Run the backend folder with terminal
-2. Run all this commands:
+Install Backend :  
+1. Run the backend folder with terminal  
+2. Run all this commands:  
 pip install django  
 pip install django-cors-headers  
 pip install opencv-python  
