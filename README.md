@@ -26,13 +26,13 @@ Install ReactJS User Interface:
 Install Backend :
 1. Run the backend folder with terminal
 2. Run all this commands:
-pip install django
-pip install django-cors-headers
-pip install opencv-python
-pip install Pillow
-pip install djangorestframework
-pip install imageio
-pip install matplotli
+pip install django  
+pip install django-cors-headers  
+pip install opencv-python  
+pip install Pillow  
+pip install djangorestframework  
+pip install imageio  
+pip install matplotli  
 
 3. Run python manage.py runserver
 
