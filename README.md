@@ -34,5 +34,5 @@ pip install djangorestframework
 pip install imageio
 pip install matplotli
 3. Run python manage.py runserver
-
+d
 
