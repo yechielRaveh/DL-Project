@@ -1,24 +1,24 @@
 # DL-Project
 Item tracker with deep learning
-
-
-NodeJS Camera Service:
+  
+  
+NodeJS Camera Service:  
 LastSeenObjectReminder.Backend-main
-
-ReactJS - User Interface:
+  
+ReactJS - User Interface:  
 DL-React-master
-
-Backend And Deep Learning:
+  
+Backend And Deep Learning:  
 DL-BackendDjango-main
-
-Instruactions:
-Install Camera Service:
+    
+Instruactions:  
+Install Camera Service:  
 1. Run the camera service folder with terminal
 2. Run yarn install
 3. Run yarn start
 Now the camera will send the backend pictures every 20 secondes.
 
-Install ReactJS User Interface:
+Install ReactJS User Interface:  
 1. Run the ReactJS folder with terminal
 2. Run npm install
 3. Run npm start
