@@ -24,7 +24,7 @@ Install ReactJS User Interface:
 3. Run npm start
 
 Install Backend :  
-1. Run the backend folder with terminal  
+1. Run the backend folder with terminal
 2. Run all this commands:  
 pip install django  
 pip install django-cors-headers  
